@@ -15,3 +15,5 @@ checking commit 2
 
 commit 5
 
+commit after reset
+
