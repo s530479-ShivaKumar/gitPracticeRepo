@@ -11,3 +11,5 @@ Added in new branch
 
 checking commit 1
 
+checking commit 2
+
